@@ -1,0 +1,17 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2012-01-24 00:00:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: NO_PWC_BAN/body_no_pwc_ban.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 01:47:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 02:27:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: awstats/awstats.pl ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 03:30:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/).html( ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:02 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/"+el.src+" ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/"+a.href+" ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/);else ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/)}P.add(D).add(E).add(t).add(Q).hide();R.html(a.close).show();e.slideshow();e.load()}var ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/)h.html(f ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 10:37:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/]};P.optgroup=P.option;P.tbody=P.tfoot=P.colgroup=P.caption=P.thead;P.th=P.td;if(!c.support.htmlSerialize)P._default=[1, ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 15:59:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pp/anp.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 16:29:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 20:09:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-01-24 20:21:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Online ~ SYSPATH/classes/kohana/request.php [ 676 ]

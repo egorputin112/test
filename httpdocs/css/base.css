@@ -1,0 +1,273 @@
+/* base ---------------------------*/
+html { height: 100%; }
+body { font: 12px/18px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; background:url(../images/base_bg.gif) #fff repeat-x; color:#333; height:100%; }
+* { margin:0; padding:0; }
+img { border:0; }
+a { outline: 0; }
+
+/* layout ---------------------------*/
+.wrapper { min-height:100%; height:auto !important; height:100%; margin:0 auto -4em; }
+#container { width:960px; margin:0 auto; position:relative; clear:both; left:8px; }
+html>body #container { left:0px; }
+#header { height: 110px; position: relative; margin:0px auto; width:970px; }
+#main-body { width:100%; padding:30px 0px; float:left; }
+#left { float:left; width:660px; padding-bottom:30px; }
+html>body #left { width:672px;}
+#rightpic { float:right; }
+#right { float:right; width:288px; text-align:left; }
+#rightText { padding:20px; background-color:#f1f1f1; }
+#rightTextProduct { padding:20px; background-color:#f1f1f1; margin-left:15px; margin-top:70px; font:11px/16px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; overflow: hidden; }
+#rightPromo {text-align:center; padding-top:15px; padding-left:25px; }
+#leftText { margin-left:15px; padding-right:30px; }
+
+/* left details ---------------------------*/
+div#left h2 { padding-top:30px; }
+div#left h2.detour {padding-top:0px; color:#de783e;}
+div#left ol { padding-left:50px; }
+#product { width:100%; border-bottom:solid #e5e5e5 1px; margin:20px 0; height:175px; }
+#productLeft { float:left; }
+#productRight { float:right; width:190px; }
+#product img.price { float:right; padding-top:10px; }
+#product img.reserve { padding-top:10px; padding-bottom:15px; }
+#product.last { border-bottom:none; }
+#product h3 { font:14px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; color:#0066a4; padding-top:10px; padding-bottom:5px; }
+
+/* right details ---------------------------*/
+div#right p { padding-top: 10px; }
+img.right { float:right; padding:5px; }
+
+/* nav ---------------------------*/
+#nav { width:446px; height:17px; position:absolute; bottom:0px; right:25px; }
+#nav li { display:block; list-style:none; position:absolute; }
+#nav li span { display:none; }
+#nav a { height:17px; display:block; text-decoration:none; }
+#navhome { width:40px; background: url(../images/nav_home.gif) no-repeat 0px 0px; left:0px; }
+#navhome a:hover { background: url(../images/nav_home.gif) no-repeat 0px -17px; }
+#navhome.current { background: url(../images/nav_home.gif) no-repeat 0px -17px; }
+#navhome.current a:hover { cursor:default; }
+#navrates { width:122px; background: url(../images/nav_rates.gif) no-repeat 0px 0px; left:60px; }
+#navrates a:hover { background: url(../images/nav_rates.gif) no-repeat 0px -17px; }
+#navrates.current { background: url(../images/nav_rates.gif) no-repeat 0px -17px; }
+#navrates.current a:hover { cursor:default; }
+#navfaqs { width:93px; background: url(../images/nav_faqs.gif) no-repeat 0px 0px; left:202px; }
+#navfaqs a:hover { background: url(../images/nav_faqs.gif) no-repeat 0px -17px; }
+#navfaqs.current { background: url(../images/nav_faqs.gif) no-repeat 0px -17px; }
+#navfaqs.current a:hover { cursor:default; }
+#navservices { width:68px; background: url(../images/nav_services.gif) no-repeat 0px 0px; left:315px; }
+#navservices a:hover { background: url(../images/nav_services.gif) no-repeat 0px -17px; }
+#navservices.current { background: url(../images/nav_services.gif) no-repeat 0px -17px; }
+#navservices.current a:hover { cursor:default; }
+#navlocation { width:68px; background: url(../images/nav_location.gif) no-repeat 0px 0px; left:403px; }
+#navlocation a:hover { background: url(../images/nav_location.gif) no-repeat 0px -17px; }
+#navlocation.current { background: url(../images/nav_location.gif) no-repeat 0px -17px; }
+#navlocation.current a:hover { cursor:default; }
+#navreserve { width:114px; background: url(../images/nav_reserve.gif) no-repeat 0px 0px; left:491px; }
+#navreserve a:hover { background: url(../images/nav_reserve.gif) no-repeat 0px -17px; }
+#navreserve.current { background: url(../images/nav_reserve.gif) no-repeat 0px -17px; }
+#navreserve.current a:hover { cursor:default; }
+
+/* sublayout ---------------------------*/
+#cta { font-size:11px !important; color:#999; position:absolute; top:55px; right: 0px; }
+#flashcontainer { height:430px; }
+#flashcontainer .machines { position:absolute; top:165px; left:-68px; z-index:888;}
+#flashcontainer .meetfamily { position:absolute; top:140px; left:277px; z-index:999;}
+#homeimg { position:absolute; top:15px; left:-5px; }
+#homeimgrotate { position:absolute; top:30px; left:10px; }
+#homeimg p { background:url(../images/homeimg_bg.png) no-repeat; width:979px; height:340px; overflow:hidden; }
+#homeimg p span { display:none; }
+#subcontainer { height:228px; margin-top:15px; margin-left:-5px; float:left;}
+#subimgrotate { position:absolute; top:31px; left:11px; }
+#subimg p { background:url(../images/subpage_bg.png) no-repeat; width:982px; height:228px; overflow:hidden;}
+#subimg p span { display:none; }
+.ttlspacing { padding:10px 0px 3px 20px }
+.subttl { padding:10px 0px 10px 0px }
+
+/* promos ---------------------------*/
+#promos  { float:left; padding-bottom:25px; width:1000px; height:280px; clear:left; }
+#promoItemGroup { height: 266px; position: relative; margin:0px auto; }
+#promoItem1 { padding: 14px 10px 14px 14px;	width: 205px; }
+#promoItem2 { padding:14px 10px; width:205px; background-position:-4px 0px }
+#promoItem3 { padding:14px 14px 14px 10px; width:205px;	background-position:top right; }
+.promoItem { background-image: url('../images/promo_bg.gif'); float:left; height:238px; color:#999; overflow:hidden; font-size:11px; line-height:15px; }
+.promoItem img { margin-bottom:10px; }
+.promoItem p { padding:5px 10px; }
+.promoItem a, .promoItem a:visited { text-decoration:none; color:#fff;}
+.promoItem a:hover, .promoItem a:active { text-decoration:underline; color:#fff;}
+.promoItem h3 { padding:0px 10px; color:#fff; font-size:12px; margin:0px; }
+
+/* selector styling ---------------------------*/
+h2 { font:18px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; padding-top:15px; color:#0066a4; }
+h3 { font:15px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; color:#7bbce8; padding-top:15px; }
+h4 { font:15px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; color:#0066a4; padding-top:15px; border-bottom:1px solid #ccc; margin-bottom:10px; }
+h5 { font:14px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; color:#0066a4; }
+h6 { font:15px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; color:#000; padding-top:15px; }
+
+a, a:visited { color:#de783e; text-decoration:underline; }
+a:hover, a:active { color:#de783e; text-decoration:none; }
+
+/* logo setup ---------------------------*/
+#logo { position:relative; top:25px; left:5px; }
+#logo a { height:84px; display:block; text-decoration:none; }
+#logo h1 { background:url(../images/img_logo.png) no-repeat; width:285px; height:84px; overflow:hidden; }
+#logo h1 span { display:none; }
+
+#location { padding:20px; }
+#location h1 { background:url(../images/ttl_location.png) no-repeat; width:95px; height:16px; overflow:hidden; padding-bottom: 20px; }
+#location h1 span { display:none; }
+#location h2 { background:url(../images/ttl_directions.png) no-repeat; width:118px; height:20px; overflow:hidden; padding-bottom: 20px; }
+#location h2 span { display:none; }
+#location h3 { font: 15px/21px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; color:#666; }
+#location p { padding-bottom:15px; text-align:justify; }
+#location ol { padding:10px 0px 10px 40px;}
+#location ol li { padding:0; margin:0; }
+
+/* google map ---------------------------*/
+#map { border:#7bbce8 5px solid; margin-left:6px; }
+#facebook { text-align:right; margin-top:20px; }
+
+/* speciality items ---------------------------*/
+.customBullets ul { list-style-type: none; padding-left:10px; margin-left:0px; margin-top:10px; margin-bottom:0px; }
+.customBullets ul li { background: url(../images/bullet.gif) left 6px no-repeat; padding-left:15px; margin-bottom: 6px; }
+div#highlight { border:dotted 1px #ccc; text-align:center; background-color:#fff; padding:5px 0; }
+div#highlightimg { border:dotted 1px #ccc; text-align:center; background-color:#fff; padding:0; }
+div#highlightleft { border:dotted 1px #ccc; text-align:left; background-color:#fff; padding:5px 8px; }
+.accordion h3 { cursor:pointer; outline:0; }
+.accordion h3.ui-state-active { text-decoration:underline; font-weight:bold; }
+
+/* footer ---------------------------*/
+.footer, .push { clear:both; }
+#footerwrap { width:100%; background-color:#0e1317; float:left; margin-top:20px; }
+#globalfooter { font-size:10px !important; color:#999; padding-bottom:25px; width:950px; margin: 0 auto; padding-top:25px; padding-left:15px; height:70px; }
+#globalfooter p { padding-top:10px; }
+#globalfooter p.pad { padding-bottom:10px; }
+#globalfooter p.padtop { padding-top:20px; }
+#globalfooter p.social { float:right; margin-top:-6em; clear:both; }
+#globalfooter p.social img { vertical-align: middle; }
+#globalfooter p.social a, #globalfooter p.social a:visited, #globalfooter p.social a:hover, #globalfooter p.social a:active { padding: 0.3em; color:#fff; text-decoration:none; border:0;}
+#globalfooter p.right { float:right; margin-top:-3.8em; }
+#globalfooter p.copy { border-top:solid #32363a 1px; padding-top:10px; }
+#globalfooter p.right a, #globalfooter p.right a:visited { padding: 0.3em; color:#de783e; text-decoration:none; }
+#globalfooter p.right a:hover, #globalfooter p.right a:active { text-decoration:underline; }
+#globalfooter p.copy a, #globalfooter p.copy a:visited { padding: 0.5em; color:#de783e; text-decoration:none; }
+#globalfooter p.copy a:hover, #globalfooter p.copy a:active { text-decoration:underline; }
+#globalfooter p.reserve a, #globalfooter p.reserve a:visited { color:#de783e; text-decoration:none; }
+#globalfooter p.reserve a:hover, #globalfooter p.reserve a:active { text-decoration:underline; }
+
+.pickup-return { background: #F3F4F8; padding: 5px; margin-bottom: 2px; overflow: hidden; height:16px; }
+.pickup-return img { margin: 0; }
+.pickup-return .pickup, .pickup-return .return { height: 12px; overflow: hidden; display: inline-block; margin-right: 0px; vertical-align: middle; }
+.pickup-return .return { margin-left: 10px; }
+.pickup-return p { margin: 0; padding: 0; font: 11px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; width: 135px; float:left; }
+
+#CalenderControl {
+	width: 280px;
+	height: 260px;
+	padding: 5px 0;
+	font-family: Tahoma, Geneva, sans-serif;
+	float: left;
+	background: #FFF;
+	margin-top: -10px;
+	position: relative;
+}
+
+.dpform { overflow: hidden; }
+.dpform #ResetButton { padding: 2px 0 0 5px; color: #D37748; float:left; width: 90px; font-size: 1.1em; text-decoration: underline; }
+.dpform input.submit { float: right; padding: 0 5px 0 0; }
+
+span.reserve { cursor: pointer; }
+
+#accessories { margin: 1em 0; }
+#accessories td, #accessories th { padding: 3px; }
+#accessories th { text-align: left; }
+
+#order2 { width: 100%; }
+#order2 th { text-align: left; padding: 1em 3px 3px; }
+#order2 td { padding: 3px; }
+#order2 p { margin: .6em 0; }
+
+.order-table { width: 99%; border-collapse: collapse; }
+.order-table td, .order-table th { border: 1px solid #CCC; padding: 1px 3px; }
+.order-table .item { text-align: left; }
+.order-table .price, .order-table .qty, .order-table .total { text-align: right; }
+
+.errors { padding: 1em; border: 1px solid #D44242; background: #F8D9C9; }
+.errors ul { list-style: none; }
+
+div.datepicker a {text-decoration:none !important; outline:none !important;}
+
+#PhotoGallery{
+	background: url(../images/promo_bg2.gif) no-repeat top left;
+padding:14px;
+ text-align: center;
+}
+
+
+.ContentColumn {
+	width:380px;
+	float:left;
+padding-left:10px;
+}
+.PhotoGalleryColumn{
+	width:265px;
+	float:left
+}
+
+.ViewGalleryButton{ margin-top:20px;}
+
+/* Our Company */
+.imgright { float:right; padding-left:20px; }
+.imgleft { float:left; padding-right:20px; }
+.hrlight {height:1px;background-color:#e1e0de;border:0;color:#e1e0de;margin:15px 0 13px 0px;padding:0;width:100%; display:block; clear:both;}
+
+/* colorbox css */
+/*
+    ColorBox Core Style
+    The following rules are the styles that are consistant between themes.
+    Avoid changing this area to maintain compatability with future versions of ColorBox.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative; overflow:visible;}
+#cboxLoadedContent{overflow:auto;}
+#cboxLoadedContent iframe{display:block; width:100%; height:100%; border:0;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+
+/* 
+    ColorBox example user style
+    The following rules are ordered and tabbed in a way that represents the
+    order/nesting of the generated HTML, so that the structure easier to understand.
+*/
+#cboxOverlay{background:#000;}
+#colorbox{}
+    #cboxTopLeft{width:14px; height:14px; background:url(../images/controls.png) 0 0 no-repeat;}
+    #cboxTopCenter{height:14px; background:url(../images/border.png) top left repeat-x;}
+    #cboxTopRight{width:14px; height:14px; background:url(../images/controls.png) -36px 0 no-repeat;}
+    #cboxBottomLeft{width:14px; height:43px; background:url(../images/controls.png) 0 -32px no-repeat;}
+    #cboxBottomCenter{height:43px; background:url(../images/border.png) bottom left repeat-x;}
+    #cboxBottomRight{width:14px; height:43px; background:url(../images/controls.png) -36px -32px no-repeat;}
+    #cboxMiddleLeft{width:14px; background:url(../images/controls.png) -175px 0 repeat-y;}
+    #cboxMiddleRight{width:14px; background:url(../images/controls.png) -211px 0 repeat-y;}
+    #cboxContent{background:#fff;}
+        #cboxLoadedContent{margin-bottom:5px;}
+        #cboxLoadingOverlay{background:url(../images/loading_background.png) center center no-repeat;}
+        #cboxLoadingGraphic{background:url(../images/loading.gif) center center no-repeat;}
+        #cboxTitle{position:absolute; bottom:-25px; left:0; text-align:center; width:100%; font-weight:bold; color:#7C7C7C;}
+        #cboxCurrent{position:absolute; bottom:-25px; left:58px; font-weight:bold; color:#7C7C7C;}
+        
+        #cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{position:absolute; bottom:-29px; background:url(../images/controls.png) 0px 0px no-repeat; width:23px; height:23px; text-indent:-9999px;}
+        #cboxPrevious{left:0px; background-position: -51px -25px;}
+        #cboxPrevious.hover{background-position:-51px 0px;}
+        #cboxNext{left:27px; background-position:-75px -25px;}
+        #cboxNext.hover{background-position:-75px 0px;}
+        #cboxClose{right:0; background-position:-100px -25px;}
+        #cboxClose.hover{background-position:-100px 0px;}
+        
+        .cboxSlideshow_on #cboxSlideshow{background-position:-125px 0px; right:27px;}
+        .cboxSlideshow_on #cboxSlideshow.hover{background-position:-150px 0px;}
+        .cboxSlideshow_off #cboxSlideshow{background-position:-150px -25px; right:27px;}
+        .cboxSlideshow_off #cboxSlideshow.hover{background-position:-125px 0px;}
+		
+		

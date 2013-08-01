@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-03-07 00:36:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 00:36:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 07:25:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: trafficbasedsspsitemap.xml ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 07:46:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 07:55:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 14:36:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 17:07:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 17:14:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: rates-models**** ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 19:56:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 19:57:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 19:57:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 19:57:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-07 22:55:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

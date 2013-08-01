@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-07-07 00:17:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 00:33:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 01:08:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 05:11:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: images/trixbox_logo.gif ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 06:39:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 08:34:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 09:27:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: repairs.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 13:53:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 14:07:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 19:55:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: order/images/clear.gif ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 19:55:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: order/images/clear.gif ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 19:55:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: order/images/clear.gif ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 20:27:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 20:27:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 20:27:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-07-07 22:30:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: NO_PWC_BAN/body_no_pwc_ban.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

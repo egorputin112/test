@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2012-12-14 00:03:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 00:05:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 01:06:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 02:16:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: span.reserve ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 02:30:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 02:31:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 03:31:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 05:39:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 05:40:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 06:12:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 06:41:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Patio_Boat ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 07:32:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 08:35:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: NO_PWC_BAN/body_no_pwc_ban.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 10:41:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: boat-services-trailer-sales/fdgfdg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 10:56:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: repairs.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-12-14 20:25:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

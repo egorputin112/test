@@ -1,0 +1,46 @@
+#sqlmon .debug {
+	width: 99%;
+	margin: 0 auto;
+	clear: both;
+	background: #CCC;
+	border: 2px solid #777;
+	border-collapse: collapse;
+}
+
+#sqlmon .debug .debug { border-color: #BBB; }
+
+#sqlmon .debug .bt { font-weight: bold; color: #00F; }
+
+#sqlmon .debug td, #sqlmon .debug th {
+	padding: 2px;
+	border: 1px solid #CCC;
+}
+
+#sqlmon tr > td { border-bottom: 2px solid #777; }
+#sqlmon .debug .debug tr > td { border-bottom: 1px solid #CCC; }
+
+#sqlmon thead, #sqlmon tbody {
+	color: #990;
+	background: #EEE;
+	font: x-small Verdana, sans-serif;
+	text-align: left;
+	vertical-align: top;
+}
+
+#sqlmon .query { color: #582; }
+
+#sqlmon .explain { margin: 3px 0; }
+#sqlmon .red { color: red !important; }
+#sqlmon .green { color: green !important; }
+#sqlmon .orange { color: orange !important; }
+#sqlmon .darkcyan { color: darkcyan !important; }
+
+#sqlmon .warning { color: red; font-weight: bold; }
+
+#sqlmon .title {
+	margin: 10px 0 0;
+	color: green;
+	font-weight: bolder;
+}
+
+#sqlmon .error { color: red !important; }

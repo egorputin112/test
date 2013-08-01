@@ -1,0 +1,1 @@
+<?php class Database_Logger extends Kohana_Database_Logger {} ?>

@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-04-04 10:11:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 10:11:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 10:32:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 10:32:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 10:32:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 10:32:52 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: apple-touch-icon-precomposed.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 17:30:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: NO_PWC_BAN/body_no_pwc_ban.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 19:13:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 19:13:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 19:14:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 19:14:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 20:46:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 20:46:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 20:49:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 21:02:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-04-04 21:03:10 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]

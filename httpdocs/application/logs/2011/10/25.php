@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-10-25 01:46:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Reservations/reservations.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 03:00:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 03:08:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: shop/admin/banner_manager.php/login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 07:40:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: wp-login.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 09:07:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 10:14:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 10:15:25 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 10:16:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 13:57:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 13:58:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 14:59:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 16:59:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 18:50:19 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: user/soapCaller.bs ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-25 23:33:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]

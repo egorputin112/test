@@ -1,0 +1,82 @@
+CREATE TABLE accessories (
+	id BIGINT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	name VARCHAR(255) NOT NULL,
+	price FLOAT NOT NULL
+) DEFAULT CHARSET=utf8;
+
+INSERT INTO accessories (name, price) VALUES
+('Tow Vehicle', 45),
+('52" Tube', 25),
+('Wakeboard', 25),
+('Ski Package', 18),
+('Kneeboard', 18),
+('Additional Ski Rope', 3);
+
+CREATE TABLE models (
+	id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	title VARCHAR(255) NOT NULL,
+	price FLOAT NOT NULL,
+	strokes TINYINT UNSIGNED NOT NULL,
+	seats TINYINT UNSIGNED NOT NULL,
+	fuel FLOAT NOT NULL,
+	`engine` VARCHAR(64) NOT NULL,
+	horsepower FLOAT NOT NULL,
+	image VARCHAR(255) NOT NULL
+) DEFAULT CHARSET=utf8;
+
+INSERT INTO models VALUES
+(1,'Honda AquaTrax F-15',299.00,4,3,18.50,'1470cc',200.00, 'hondaF15.jpg'),
+(2,'Kawasaki STX-15F',229.00,4,3,16.40,'1570cc',165.00, 'kawasaki15F.jpg'),
+(3,'Honda AquaTrax F-12',229.00,4,3,16.60,'1235cc',137.00, 'hondaF12.jpg'),
+(4,'Honda AquaTrax R-12',209.00,4,2,16.60,'1570cc',165.00, 'hondaR12.jpg'),
+(5,'Honda AquaTrax F-12NC',229.00,4,3,16.60,'1235cc',137.00, 'hondaF12nc.jpg');
+
+CREATE TABLE vehicles (
+	id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	model_id BIGINT UNSIGNED NOT NULL,
+	KEY `model_id` (`model_id`)
+) DEFAULT CHARSET=utf8;
+
+INSERT INTO vehicles VALUES
+(1,1),(2,1),
+(3,2),(4,2),(5,2),(6,2),(7,2),(8,2),(9,2),(10,2),
+(11,3),(12,3),(13,3),(14,3),(15,3),(16,3),(17,3),(18,3),
+(19,4),(20,4),(21,4),(22,4),
+(23,5),(24,5),(25,5),(26,5),(27,5),(28,5),(29,5),(30,5),(31,5),(32,5),(33,5),(34,5);
+
+CREATE TABLE orders (
+	id BIGINT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`from` DATE NOT NULL,
+	till DATE NOT NULL,
+	name VARCHAR(255) NOT NULL,
+	address VARCHAR(255) NOT NULL,
+	city VARCHAR(255) NOT NULL,
+	state VARCHAR(255) NOT NULL,
+	zip VARCHAR(255) NOT NULL,
+	phone VARCHAR(255) NOT NULL,
+	time VARCHAR(255) NOT NULL,
+	email VARCHAR(255) NOT NULL,
+	requests TEXT NOT NULL,
+	card_type VARCHAR(255) NOT NULL,
+	card_number VARCHAR(255) NOT NULL,
+	card_name VARCHAR(255) NOT NULL,
+	card_exp VARCHAR(255) NOT NULL,
+	contact VARCHAR(255) NOT NULL,
+	total FLOAT NOT NULL
+) DEFAULT CHARSET=utf8;
+
+CREATE TABLE order_accessories (
+	id BIGINT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	order_id BIGINT UNSIGNED NOT NULL,
+	accessory_id BIGINT UNSIGNED NOT NULL,
+	qty INTEGER UNSIGNED NOT NULL,
+	KEY (order_id)
+) DEFAULT CHARSET=utf8;
+
+CREATE TABLE order_vehicles (
+	id BIGINT UNSIGNED NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	order_id BIGINT UNSIGNED NOT NULL,
+	vehicle_id BIGINT UNSIGNED NOT NULL,
+	KEY (order_id)
+) DEFAULT CHARSET=utf8;
+

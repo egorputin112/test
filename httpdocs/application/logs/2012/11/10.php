@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2012-11-10 02:46:16 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 02:51:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 03:18:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: viewpart.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 04:09:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: enewslettersignup.aspx ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 04:22:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: enewslettersignup.aspx ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 05:22:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: enewslettersignup.aspx ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 06:34:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: homeequity.aspx ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 06:36:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: homeequity.aspx ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 07:36:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: homeequity.aspx ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:09:36 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: w00tw00t.at.blackhats.romanian.anti-sec:) ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:09:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:09:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:09:39 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pma/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:09:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: myadmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:09:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: MyAdmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-11-10 13:31:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: text/javascript ~ SYSPATH/classes/kohana/request.php [ 676 ]

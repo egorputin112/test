@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-12-19 09:34:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 09:52:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: South ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 14:50:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: w00tw00t.at.blackhats.romanian.anti-sec:) ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 14:50:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 14:50:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 14:50:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pma/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 14:50:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: myadmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 14:50:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: MyAdmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 17:00:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 17:23:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: South ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 22:42:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 22:57:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: South ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 23:29:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-19 23:29:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]

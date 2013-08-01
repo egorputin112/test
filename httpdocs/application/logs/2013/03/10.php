@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-03-10 04:56:14 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 12:07:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: default.ida ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Admin ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: PMA ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: PMA2005 ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: SQL ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: SSLMySQLAdmin ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:53 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: p/m/a ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin-2 ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin2 ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 15:17:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmins ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-03-10 19:18:42 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: fkwndachkyhowg.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

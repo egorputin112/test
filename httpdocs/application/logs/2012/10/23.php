@@ -1,0 +1,17 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2012-10-23 10:00:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/).html( ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 10:00:55 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/"+el.src+" ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 10:00:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/"+a.href+" ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 10:00:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/);else ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 10:01:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/)}P.add(D).add(E).add(t).add(Q).hide();R.html(a.close).show();e.slideshow();e.load()}var ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 10:01:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/)h.html(f ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 10:01:01 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: scripts/]};P.optgroup=P.option;P.tbody=P.tfoot=P.colgroup=P.caption=P.thead;P.th=P.td;if(!c.support.htmlSerialize)P._default=[1, ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 14:08:31 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vtigercrm/graph.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 15:47:56 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 18:27:45 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: w00tw00t.at.blackhats.romanian.anti-sec:) ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 18:27:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 18:27:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 18:27:47 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pma/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 18:27:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: myadmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-10-23 18:27:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: MyAdmin/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]

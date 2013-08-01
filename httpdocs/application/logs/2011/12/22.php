@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-12-22 04:31:33 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: joomla/administrator/index.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 05:03:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 05:34:38 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: South ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 10:45:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 13:31:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: South ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 16:49:20 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:26:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:26:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:30:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:30:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:35:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:35:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:39:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pma/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:39:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pma/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:44:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: mysql/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-12-22 21:44:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: mysql/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]

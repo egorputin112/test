@@ -1,0 +1,1 @@
+<?php class SqlMon extends Kohana_SqlMon {} ?>

@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2012-04-08 05:37:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 05:37:58 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 06:54:35 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpBB/docs/FAQ.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 07:21:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 12:22:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: sugarlandthunder/images/ThunderLogo1a.jpg ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 19:34:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 19:51:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: dbadmin/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:05:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: myadmin/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:07:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: manager/html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:19:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: mysql/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:33:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: mysqladmin/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:47:05 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpMyAdmin/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:54:08 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 20:54:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 21:00:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: phpmyadmin/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2012-04-08 21:14:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: pma/scripts/setup.php/scripts/setup.php ~ SYSPATH/classes/kohana/request.php [ 676 ]

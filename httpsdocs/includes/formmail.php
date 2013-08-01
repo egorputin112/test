@@ -1,0 +1,93 @@
+<?php
+
+$s = "\n" . "Below is the result of your feedback form. It was submitted by";
+$s = $s . "\n";
+$s = $s . $_POST['realname'] . "(" . $_POST['email'] . ") on " . date('Y-m-d H:i:s');
+$s = $s . "\n";
+$s = $s . "====================================================================";
+$s = $s . "\n"  . "\n";
+$s = $s . "Real Name: " . $_POST['realname'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Address: " . $_POST['Address'];
+$s = $s . "\n"  . "\n";
+$s = $s . "City: " . $_POST['City'];
+$s = $s . "\n"  . "\n";
+$s = $s . "State: " . $_POST['State'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Zip: " . $_POST['Zip'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Phone: " . $_POST['Phone'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Best Time To Call: " . $_POST['BestTimeToCall'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Email: " . $_POST['email'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rental Qty1: " . $_POST['RentalQty1'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rental Type1: " . $_POST['RentalType1'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rental Qty2: " . $_POST['RentalQty2'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rental Type2: " . $_POST['RentalType2'];
+$s = $s . "\n"  . "\n";
+$s = $s . "PickUp Date: " . $_POST['PickUpDate'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Return Date: " . $_POST['ReturnDate'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Other Requests: " . $_POST['OtherRequests'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rent Accessories1: " . $_POST['RentAccessories1'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Accessory Type1: " . $_POST['AccessoryType1'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rent Accessories2: " . $_POST['RentAccessories2'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Accessory Type2: " . $_POST['AccessoryType2'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Rent Accessories3: " . $_POST['RentAccessories3'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Accessory Type3: " . $_POST['AccessoryType3'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Card Type: " . $_POST['CardType'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Card Number: " . $_POST['CardNumber'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Expires Month: " . $_POST['ExpiresMonth'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Expires Year: " . $_POST['ExpiresYear'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Name On Card: " . $_POST['NameOnCard'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Preferred Contact By: " . $_POST['PreferredContactBy'];
+$s = $s . "\n"  . "\n";
+$s = $s . "Agree To Terms: " . $_POST['AgreeToTerms'];
+$s = $s . "\n"  . "\n";
+$s = $s . "====================================================================";
+
+mail("reserve@powellzone.com", "Reservation Request", $s, "From: webmaster@powellzone.com");
+mail("info@powellzone.com",    "Reservation Request", $s, "From: webmaster@powellzone.com");
+mail("sarah@powellzone.com",   "Reservation Request", $s, "From: webmaster@powellzone.com");
+
+$s = "\n"  . "Thank you for your Reservation Request!";
+$s = $s . "\n";
+$s = $s . "Please note this is a request for a reservation and NOT a confirmation that";
+$s = $s . "\n";
+$s = $s . "your reservation has been accepted. We will contact you within 48 hours, by";
+$s = $s . "\n";
+$s = $s . "phone or email, to confirm your request. If you have any questions or";
+$s = $s . "\n";
+$s = $s . "concerns please call 928-645-3121.";
+$s = $s . "\n"  . "\n";
+$s = $s . "Sincerely,";
+$s = $s . "\n";
+$s = $s . "H20-Zone";
+$s = $s . "\n";
+$s = $s . "www.powellzone.com";
+$s = $s . "\n";
+$s = $s . "info@powellzone.com";
+
+mail($_POST['email'], "Reservation Request", $s, "From: reserve@powellzone.com");
+
+header("Location: http://www.powellzone.com/thanks.htm");
+
+?>

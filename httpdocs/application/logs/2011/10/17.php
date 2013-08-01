@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-10-17 04:48:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 04:48:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 09:48:50 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 11:04:30 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 11:26:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 12:39:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 16:49:23 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: index.htm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 19:02:26 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 19:03:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 19:03:59 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: Rentals/Bass_Boat/27__Sport_Cruiser/27__sport_cruiser.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 21:35:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 21:35:24 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 21:35:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-10-17 21:35:48 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]

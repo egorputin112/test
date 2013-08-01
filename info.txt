@@ -1,0 +1,9 @@
+ADMIN
+http://powellzone.com/admin
+admin
+96f3bgL4uG7
+
+FTP
+ftp.powellzone.com
+powellzone
+powell86040!

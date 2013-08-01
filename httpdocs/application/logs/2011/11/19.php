@@ -1,0 +1,16 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2011-11-19 00:05:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: web/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 00:05:18 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: web/translators.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 05:11:43 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: CFIDE/administrator/enter.cfm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 05:11:49 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: CFIDE/administrator/enter.cfm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 10:26:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 10:26:34 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 10:34:22 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 10:34:27 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 10:35:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/close.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 10:35:44 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: contact-form/images/success.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 14:37:46 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: NO_PWC_BAN/body_no_pwc_ban.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 18:55:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: CFIDE/administrator/enter.cfm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 18:55:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: CFIDE/administrator/enter.cfm ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2011-11-19 19:39:37 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: vlad/web ~ SYSPATH/classes/kohana/request.php [ 676 ]

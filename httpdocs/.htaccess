@@ -1,0 +1,31 @@
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule index\.htm$ / [L]
+RewriteRule safety\.htm$ / [L,R=301]
+RewriteRule attractions\.htm$ / [L,R=301]
+RewriteRule attractions2\.htm$ / [L,R=301]
+RewriteRule attractions3\.htm$ / [L,R=301]
+RewriteRule links\.htm$ / [L,R=301]
+RewriteRule thanks\.htm$ / [L,R=301]
+RewriteRule thanks2\.htm$ / [L,R=301]
+
+RewriteRule rentals\.htm$ /rates-models [L,R=301]
+RewriteRule reservations\.htm$ /rates-models [L,R=301]
+
+RewriteRule boatrentals.htm /boat-rentals [L,R=301]
+
+RewriteRule operator\.htm$ /rental-faqs [L,R=301]
+RewriteRule faq\.htm$ /rental-faqs [L,R=301]
+
+RewriteRule services\.htm$ /boat-services-trailer-sales [L,R=301]
+
+RewriteRule contact\.htm$ /page-az-location [L,R=301]
+RewriteRule map\.htm$ /page-az-location [L,R=301]
+RewriteRule maplarge\.htm$ /page-az-location [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule .* /index.php/$0 [PT]
